@@ -1,84 +1,39 @@
 # Hi, I'm Abdikarin 👋
 
-### Backend Developer | Software Engineering Student
+### Software Engineering Student | Backend Development & DevOps
 
-I'm a Software Engineering student passionate about backend development, databases, and building real-world web applications. I enjoy solving problems, learning modern technologies, and continuously improving through internships, personal projects, and collaboration.
+I'm a Software Engineering student focused on building backend applications, REST APIs, and reliable software systems. I'm expanding my skills in automation, CI/CD, Linux, and deployment.
 
-## 🚀 What I'm Working On
+## 💻 Tech Stack
 
-* Backend Development
-* REST APIs
-* Database Design
-* AI & AI Agents
-* Personal & Collaborative Projects
-* Open Source Contributions
-
-## 💻 Technologies
-
-* Python
-* Flask
-* SQL
-* PostgreSQL
-* Supabase
-* Git & GitHub
-* Basic Linux (Ubuntu)
-
-## 🌱 Currently Learning
-
-* Django
-* Docker
-* AI Agents & Automation
-* Backend System Design
-* Linux (Ubuntu) Fundamentals
-* CI/CD Fundamentals
-* DevOps Basics
-* Cloud & Deployment Concepts
-* SQL & Database Optimization
-* Building Scalable REST APIs
+- **Languages:** Python, SQL
+- **Backend & Databases:** Flask, PostgreSQL, Supabase
+- **Tools:** Git, GitHub, GitHub Actions
+- **Currently Learning:** Docker, Linux, CI/CD, Deployment, DevOps, Django, Jira
 
 ## 💼 Experience
 
-### Backend Developer Intern — Robotum Bilişim
+**Backend Developer Intern — Robotum Bilişim**
 
-Worked on a real student management system as part of the backend development team.
+- Developed and tested backend features for a student management system.
+- Worked with Supabase, SQL, and REST APIs.
+- Collaborated through Git and GitHub workflows.
+- Contributed to attendance management and debugging.
 
-**Responsibilities**
+*Company source code is private.*
 
-* Developed backend features.
-* Implemented attendance management (Present / Absent / Telafi).
-* Worked with Supabase, PostgreSQL, SQL, and REST APIs.
-* Fixed backend bugs and tested new features.
-* Collaborated with the team using Git & GitHub.
-* Participated in feature planning, testing, and debugging.
-* Worked in a real software development environment using professional workflows.
+## 🚀 Projects & Learning
 
-> The project source code is private because it belongs to the company.
+- Building Python and Flask REST APIs.
+- Practicing CI/CD with GitHub Actions.
+- Learning Docker, Linux, deployment, and DevOps workflows.
+- Exploring AI agents and automation.
 
-## 🚧 Current Projects
+## 🎯 Professional Focus
 
-* Building backend applications with Python and Flask.
-* Learning Django through practical projects.
-* Exploring AI agents and automation.
-* Collaborating with friends on software projects.
-* Expanding my GitHub portfolio with real-world projects.
-* Continuously improving my backend development skills.
+Backend engineering, DevOps, automation, and cloud infrastructure. Focused on continuous learning, hands-on projects, and building practical engineering skills.
 
-## 🌍 Beyond Programming
+## 📫 Connect
 
-I also enjoy creating digital content and experimenting with content strategy, audience growth, thumbnails, titles, posting schedules, and analytics through my personal YouTube projects. These experiences have strengthened my creativity, communication, and analytical thinking.
-
-## 🎯 Goals
-
-* Become a skilled Backend Engineer.
-* Build scalable web applications.
-* Learn cloud technologies and DevOps.
-* Contribute to open-source projects.
-* Continue gaining industry experience through internships and real-world projects.
-
-## 📫 Connect With Me
-
-* LinkedIn: *(Coming Soon)*
-* GitHub: **https://github.com/Abdikarin-dev**
-* Email: **
-
-⭐ **Always learning. Always building. Always improving.**
+- **GitHub:** [Abdikarin-dev](https://github.com/Abdikarin-dev)
+- **Email:** Add your professional email here.
