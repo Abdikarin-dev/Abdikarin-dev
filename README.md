@@ -36,4 +36,4 @@ Backend engineering, DevOps, automation, and cloud infrastructure. Focused on co
 ## 📫 Connect
 
 - **GitHub:** [Abdikarin-dev](https://github.com/Abdikarin-dev)
-- **Email:** Add your professional email here.
+- **Email:** abdikarin.dev@gmail.com
